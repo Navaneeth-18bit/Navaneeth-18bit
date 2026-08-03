@@ -112,25 +112,8 @@ Multiple responsive full-stack apps built with ASP.NET Core, React, MongoDB, and
 
 </div>
 
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Navaneeth-18bit&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-</div>
-</details>
 
-<br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Navaneeth-18bit/Navaneeth-18bit/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<br/>
-
-<div align="center">
 
 ### 💭 "Code. Learn. Build. Repeat."
 
