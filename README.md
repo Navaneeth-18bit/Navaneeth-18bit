@@ -102,12 +102,8 @@ Multiple responsive full-stack apps built with ASP.NET Core, React, MongoDB, and
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navaneeth-18bit&theme=tokyonight&hide_border=true"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navaneeth-18bit&theme=tokyo-night&hide_border=true"/>
-
 </div>
 
 
