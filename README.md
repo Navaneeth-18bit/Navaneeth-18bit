@@ -12,7 +12,7 @@
 <a href="https://neon-dev-portfolioomega.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="mailto:navaneeth120405@gmail.com">
+<a href="mailto:itsmenavaneeth13@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Navaneeth-18bit" target="_blank">
@@ -27,8 +27,8 @@
 
 ```yaml
 role: Final Year B.Tech Computer Science Student
-focus: Artificial Intelligence, Computer Vision, Full Stack Development
-currently_learning: Deep Learning, Vision LLMs, System Design
+focus: Artificial Intelligence, Full Stack Development
+currently_learning: Deep Learning, System Design
 currently_building:
   - AI-powered web applications
 open_to: SDE Internships & Full-Time Roles
